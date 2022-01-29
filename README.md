@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Kwurty dot com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me
 
-## Available Scripts
+- Bachelor's in Computer Science
+- Javascript Enthusiast
+- Aspiring Fullstack Developer
+- Current Systems Administrator / IT Specialist / Support Engineer
 
-In the project directory, you can run:
+## Programming & Markup Languages
 
-### `npm start`
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
+[<code>
+<img alt="vuejs" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
+</code>](https://vuejs.org/)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://sass-lang.com/)
+[<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+</code>](https://mongodb.org/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tools
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
+[<code>
+<img alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png">
+</code>](https://www.docker.com/)
+[<code>
+<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</code>](https://docs.microsoft.com/en-us/windows/terminal/)
+[<code>
+<img alt="powershell" width="26px" src="https://img.icons8.com/color/48/000000/powershell.png">
+</code>](https://docs.microsoft.com/en-us/powershell/)
 
-### `npm test`
+## Operating Systems
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+</code>](https://ubuntu.com/)
 
-### `npm run build`
+# My links:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[<img align="left" alt="kwurty" height="22px" src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" />][website]
+[<img align="left" alt="LinkedIn" height="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="email" height="22px" src="https://img.icons8.com/ios/50/000000/email-open.png" />][gmail]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[website]: https://kwurty.com
+[linkedin]: https://www.linkedin.com/in/kurtissoroka
+[gmail]: mailto:k.soroka@gmail.com
