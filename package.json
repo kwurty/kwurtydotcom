@@ -41,7 +41,7 @@
     "autoprefixer": "^9.8.8",
     "eslint": "^7.32.0",
     "gh-pages": "^3.2.3",
-    "postcss": "^7.0.39",
+    "postcss": "^8.2.13",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
 }
