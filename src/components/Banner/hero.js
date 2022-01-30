@@ -13,7 +13,7 @@ export default function about() {
                             Kurtis Soroka
                         </h1>
 
-                        <p className="max-w-xl mx-auto mt-6 text-lg">
+                        <p className="max-w-2xl mx-auto mt-6 text-lg">
                             <ul className="list-inside md:inline-block">
                                 <li className="md:inline text-sm sm:text-lg">
                                     System Administrator
