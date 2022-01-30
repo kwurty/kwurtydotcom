@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kwurtydotcom/static/css/main.03fa2598.chunk.css",
-    "main.js": "/kwurtydotcom/static/js/main.36d758b1.chunk.js",
-    "main.js.map": "/kwurtydotcom/static/js/main.36d758b1.chunk.js.map",
+    "main.js": "/kwurtydotcom/static/js/main.17d8c8f3.chunk.js",
+    "main.js.map": "/kwurtydotcom/static/js/main.17d8c8f3.chunk.js.map",
     "runtime-main.js": "/kwurtydotcom/static/js/runtime-main.765c245e.js",
     "runtime-main.js.map": "/kwurtydotcom/static/js/runtime-main.765c245e.js.map",
     "static/js/2.7bdba034.chunk.js": "/kwurtydotcom/static/js/2.7bdba034.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.765c245e.js",
     "static/js/2.7bdba034.chunk.js",
     "static/css/main.03fa2598.chunk.css",
-    "static/js/main.36d758b1.chunk.js"
+    "static/js/main.17d8c8f3.chunk.js"
   ]
 }
