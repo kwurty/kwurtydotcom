@@ -2,6 +2,7 @@
   "name": "kwurtydotcom",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kwurty.github.io/kwurtydotcom",
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@testing-library/jest-dom": "^5.15.1",
@@ -14,6 +15,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",

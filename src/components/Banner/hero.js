@@ -20,7 +20,7 @@ export default function about() {
                                 </li>
                                 <span className="text-purple-600 hidden md:inline" > | </span>
                                 <li className="md:inline text-sm sm:text-lg">
-                                    DevOps Student
+                                    Javascript Enthusiast
                                 </li>
                                 <span className="text-purple-600 hidden md:inline"> | </span>
                                 <li className="md:inline text-sm sm:text-lg">
