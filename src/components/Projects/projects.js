@@ -33,13 +33,14 @@ export const projects = [
         about: "Order quality, homemade polymer clay jewelry. Built in WordPress with TailwindCSS.",
         github: "https://scusaclay.com",
         img: scusa,
+        inProduction: true
     },
     {
         name: "Chess Squares",
         tools: ["js", "html", "css"],
         about: "Quickly find the appropriate chess board square in this fast-paced game of memory. Built with vanilla JavaScript.",
         github: "https://github.com/kwurty/chessSquares",
-        img: chess,
+        img: chess
     },
     {
         name: "Stock Tracker",
@@ -47,5 +48,6 @@ export const projects = [
         about: "Monitor the activity on Reddit's /r/PennyStocks subreddit. Append the data to a database and view trends in this app. Made with NodeJS.",
         github: "",
         img: stonks,
+        inProduction: true
     },
 ]

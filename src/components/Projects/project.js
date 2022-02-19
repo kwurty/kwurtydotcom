@@ -8,7 +8,9 @@ export default function project({ project }) {
             <div className="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                 <h3 className="text-center">
                     <a className="text-white text-2xl font-bold text-center" href="#">
-                        <span className="absolute inset-0"></span>
+                        <span className="absolute inset-0">
+                            Hello
+                        </span>
                         {project.name}
                     </a>
                 </h3>

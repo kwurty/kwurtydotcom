@@ -19,6 +19,7 @@ function projectlist() {
                             link={proj.github}
                             imgUrl={proj.img}
                             description={proj.about}
+                            inProduction={proj.inProduction}
                         />
                     ))}
                 </div>
@@ -45,7 +46,7 @@ function projectlist() {
         // </div>
     )
 }
-const ProjectCard = ({ title, link, imgUrl, description }) => {
+const ProjectCard = ({ title, link, imgUrl, description, inProduction }) => {
     return (
         <a href={link} className="w-full block shadow-2xl"
             target={"_blank"} rel="noreferrer">
@@ -60,9 +61,23 @@ const ProjectCard = ({ title, link, imgUrl, description }) => {
                 <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-green-400 rounded-md px-2">
                     {title}
                 </h1>
-                <h1 className="bg-gray-800 absolute bottom-12 bg-opacity-75 text-gray-50 font-bold text-lg">
-                    {description}
-                </h1>
+                {
+                    inProduction ? (
+
+
+                        <div>
+                            <div className="absolute bottom-2 opacity-75 text-gray-50 font-bold text-4xl w-full bg-red-400 h-10">
+                            </div>
+                            <h1 className="absolute bottom-2 left-24 text-white font-bold text-4xl z-10">
+                                IN PRODUCTION
+                            </h1>
+                        </div>
+                    ) :
+                        <h1 className="bg-gray-800 absolute bottom-2 bg-opacity-75 text-gray-50 font-bold text-lg">
+                            {description}
+                        </h1>
+                }
+
             </div>
         </a>
     );
