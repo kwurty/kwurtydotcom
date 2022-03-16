@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/kwurtydotcom/static/css/main.03fa2598.chunk.css",
-    "main.js": "/kwurtydotcom/static/js/main.17d8c8f3.chunk.js",
-    "main.js.map": "/kwurtydotcom/static/js/main.17d8c8f3.chunk.js.map",
+    "main.js": "/kwurtydotcom/static/js/main.157f14a3.chunk.js",
+    "main.js.map": "/kwurtydotcom/static/js/main.157f14a3.chunk.js.map",
     "runtime-main.js": "/kwurtydotcom/static/js/runtime-main.765c245e.js",
     "runtime-main.js.map": "/kwurtydotcom/static/js/runtime-main.765c245e.js.map",
-    "static/js/2.7bdba034.chunk.js": "/kwurtydotcom/static/js/2.7bdba034.chunk.js",
-    "static/js/2.7bdba034.chunk.js.map": "/kwurtydotcom/static/js/2.7bdba034.chunk.js.map",
+    "static/js/2.1f919143.chunk.js": "/kwurtydotcom/static/js/2.1f919143.chunk.js",
+    "static/js/2.1f919143.chunk.js.map": "/kwurtydotcom/static/js/2.1f919143.chunk.js.map",
     "index.html": "/kwurtydotcom/index.html",
     "static/css/main.03fa2598.chunk.css.map": "/kwurtydotcom/static/css/main.03fa2598.chunk.css.map",
-    "static/js/2.7bdba034.chunk.js.LICENSE.txt": "/kwurtydotcom/static/js/2.7bdba034.chunk.js.LICENSE.txt",
+    "static/js/2.1f919143.chunk.js.LICENSE.txt": "/kwurtydotcom/static/js/2.1f919143.chunk.js.LICENSE.txt",
+    "static/media/artlists.24fe6d00.png": "/kwurtydotcom/static/media/artlists.24fe6d00.png",
     "static/media/chess.960e50be.jpeg": "/kwurtydotcom/static/media/chess.960e50be.jpeg",
-    "static/media/name-game.ea93e144.jpg": "/kwurtydotcom/static/media/name-game.ea93e144.jpg",
-    "static/media/pokedex.9e32a221.jpg": "/kwurtydotcom/static/media/pokedex.9e32a221.jpg",
+    "static/media/kwitter.7fd25f65.png": "/kwurtydotcom/static/media/kwitter.7fd25f65.png",
+    "static/media/name-game.004855fd.png": "/kwurtydotcom/static/media/name-game.004855fd.png",
+    "static/media/pokedex.5a6808d9.png": "/kwurtydotcom/static/media/pokedex.5a6808d9.png",
     "static/media/scusa.b1652fa3.png": "/kwurtydotcom/static/media/scusa.b1652fa3.png",
-    "static/media/spotify-generic-hero.0453e64b.png": "/kwurtydotcom/static/media/spotify-generic-hero.0453e64b.png",
     "static/media/stonks.d785af58.png": "/kwurtydotcom/static/media/stonks.d785af58.png"
   },
   "entrypoints": [
     "static/js/runtime-main.765c245e.js",
-    "static/js/2.7bdba034.chunk.js",
+    "static/js/2.1f919143.chunk.js",
     "static/css/main.03fa2598.chunk.css",
-    "static/js/main.17d8c8f3.chunk.js"
+    "static/js/main.157f14a3.chunk.js"
   ]
 }
