@@ -13,23 +13,23 @@ export default function contact() {
                         Let's connect!
                     </div>
                 </div>
-                <div class="w-full py-0 px-10 pb-10">
+                <div className="w-full py-0 px-10 pb-10">
 
-                    <div class="mt-8 sm:grid grid-cols-3 sm:space-x-4">
-                        <div class="bg-gray-600 p-6 rounded-md mb-4">
-                            <span class="text-gray-400 text-md">Location</span>
-                            <h2 class="text-gray-100 text-2xl font-semibold">Chicago</h2>
+                    <div className="mt-8 sm:grid grid-cols-3 sm:space-x-4">
+                        <div className="bg-gray-600 p-6 rounded-md mb-4">
+                            <span className="text-gray-400 text-md">Location</span>
+                            <h2 className="text-gray-100 text-2xl font-semibold">Chicago</h2>
                         </div>
-                        <div class="bg-gray-600 p-6 rounded-md mb-4">
-                            <span class="text-gray-400 text-md">Github</span>
+                        <div className="bg-gray-600 p-6 rounded-md mb-4">
+                            <span className="text-gray-400 text-md">Github</span>
                             <a href="https://github.com/kwurty" target={"_blank"} rel="noreferrer" >
-                                <h2 class="text-gray-100 text-2xl font-semibold">kwurty</h2>
+                                <h2 className="text-gray-100 text-2xl font-semibold">kwurty</h2>
                             </a>
                         </div>
-                        <div class="bg-gray-600 p-6 rounded-md mb-4">
-                            <span class="text-gray-400 text-md">LinkedIn</span>
+                        <div className="bg-gray-600 p-6 rounded-md mb-4">
+                            <span className="text-gray-400 text-md">LinkedIn</span>
                             <a href="https://linkedin.com/in/kurtissoroka" target={"_blank"} rel="noreferrer" >
-                                <h2 class="text-gray-100 text-2xl font-semibold">kurtissoroka</h2>
+                                <h2 className="text-gray-100 text-2xl font-semibold">kurtissoroka</h2>
                             </a>
                         </div>
                     </div>
