@@ -9,11 +9,19 @@ export default function project({ title, github, view, imgUrl, description, inPr
     let [isOpen, setIsOpen] = useState(false)
 
     function closeModal() {
-        setIsOpen(false)
+        if(isOpen){
+            setIsOpen(false)
+        }
     }
 
     return (
-        <div>
+        <div onClick={
+            (e) => {
+                if(e.target.id === "defaultModal") {
+                    closeModal()
+                }
+            }
+        }>
             <div id="defaultModal" aria-hidden="true" className={`${isOpen ? 'visible' : 'hidden'} flex overflow-y-auto overflow-x-hidden fixed right-0 left-0 top-4 z-50 justify-center items-center h-modal md:h-full md:inset-0`}>
                 <div className="relative px-4 w-full max-w-2xl h-full md:h-auto">
                     <div className="relative bg-white rounded-lg shadow dark:bg-gray-700">
@@ -56,16 +64,21 @@ export default function project({ title, github, view, imgUrl, description, inPr
                                 View Production
                             </button>
 
-                            <button
-                                className="block mx-2 py-3 px-5 font-medium border border-purple-600 rounded-lg hover:border-purple-800 text-purple-500 hover:text-purple-800"
-                                onClick={(e) => {
-                                    e.preventDefault()
-                                    window.open(github, "_blank")
-                                    closeModal()
-                                }}
-                            >
-                                GitHub
-                            </button>
+                            {
+                                github.map((item, ind) => {
+                                    return <button
+                                        className="block mx-2 py-3 px-5 font-medium border border-purple-600 rounded-lg hover:border-purple-800 text-purple-500 hover:text-purple-800"
+                                        onClick={(e) => {
+                                            e.preventDefault()
+                                            window.open(item.url, "_blank")
+                                            closeModal()
+                                        }}
+                                    >
+                                        Github - {item.name}
+                                    </button>
+                                })
+                            }
+                            
 
 
 
